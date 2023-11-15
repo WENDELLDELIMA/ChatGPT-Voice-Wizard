@@ -25,7 +25,3 @@ Se você deseja contribuir para este projeto, por favor, siga as diretrizes em [
 Este projeto está licenciado sob a [Licença MIT](LICENSE), o que significa que você pode usá-lo, modificá-lo e distribuí-lo livremente. No entanto, lembre-se de respeitar as licenças de qualquer software ou recurso de terceiros utilizado neste projeto.
 
 Aproveite a exploração deste projeto e reconheça o potencial das tecnologias que estão moldando o futuro da interação entre humanos e máquinas.
-
----
-
-**Nota:** Personalize este README com informações específicas sobre o seu projeto, como instruções detalhadas de uso, instalação e configuração, bem como créditos para qualquer recurso de terceiros utilizado. Adicione seções adicionais conforme necessário para fornecer informações relevantes aos usuários do seu projeto no GitHub.
